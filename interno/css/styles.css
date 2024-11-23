@@ -1,0 +1,7 @@
+@import url("./components/_all.css");
+@import url("./_varibles.css");
+
+.container {
+    width: 1200px;
+    margin: 0 auto; 
+}

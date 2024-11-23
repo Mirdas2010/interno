@@ -1,0 +1,8 @@
+.btn {
+  padding: 18 px 20px; 
+  background-color: var(--global); 
+  color: var(--button-text-colo)
+  
+}
+.btn span { 
+}
